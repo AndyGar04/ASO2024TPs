@@ -12,4 +12,7 @@
 * a) <a href="Tareas/con_race_condition_corregido.c">Codigo corregido</a>
   Imagen del codigo funcionando<img src="Capturas/TP3Ejercicio2a.png"></img> 
 
-* b) <img src="[/../../Capturas/TP3Ejercicio2b]([https://github.com/AndyGar04/ASO2024TPs/tree/main/TP3/Capturas](https://github.com/AndyGar04/ASO2024TPs/tree/main/TP3/Capturas/TP3Ejercicio2b.png))">Dos comensales y ocho hamburguesas</img>      
+
+
+* b) Dos comensales y ocho hamburguesas
+  <img src="Tareas/con_race_condition_corregido.c"></img>      

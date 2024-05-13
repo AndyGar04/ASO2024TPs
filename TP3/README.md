@@ -9,7 +9,7 @@
      negativos. Esto se debe al bucle generado y los nuevos valores dados al programa.
 
 2)
-* a) <a href="../Tareas/con_race_condition_corregido">Codigo corregido</a>
-* <img src="../Capturas/TP3Ejercicio2a">Imagen del codigo funcionando</img> 
+* a) <a href="/../../Tareas/con_race_condition_corregido">Codigo corregido</a>
+* <img src="/../../Capturas/TP3Ejercicio2a">Imagen del codigo funcionando</img> 
 
-* b) <img src="../Capturas/TP3Ejercicio2b">Dos comensales y ocho hamburguesas</img>      
+* b) <img src="/../../Capturas/TP3Ejercicio2b">Dos comensales y ocho hamburguesas</img>      

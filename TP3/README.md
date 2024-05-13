@@ -15,4 +15,4 @@
 
 
 * b) Dos comensales y ocho hamburguesas
-  <img src="Tareas/con_race_condition_corregido.c"></img>      
+  <img src="Capturas/TP3Ejercicio2b.png"></img>      
